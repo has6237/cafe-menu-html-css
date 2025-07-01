@@ -1,0 +1,76 @@
+body {
+	width: 100%;
+	height: 100vh;
+	margin: 0;
+	font-size: 15px;
+	font-family: tahoma;
+}
+
+h1 {
+	text-align: center;
+}
+.est {
+	text-align: center;
+	margin-top: -1.5rem;
+}
+h2 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	margin-top: -1rem;
+	margin-bottom: 0.5rem;
+	
+	
+}
+.menu {
+	max-width: 500px;
+	margin: 0 auto;
+	background-color: burlywood;
+	padding: 20px;
+	margin-top: 2rem;
+	
+	
+
+}
+.coffee, .price {
+	display: inline-block;
+}
+.dessert, .price {
+	display: inline-block;
+}
+.coffee {
+	text-align: left;
+	width: 75%;
+	
+}
+.dessert {
+	text-align: left;
+	width: 75%;
+	
+}
+.price {
+	text-align: right;
+	width: 20%;
+	
+}
+section {
+	margin-top: -1rem;
+}
+
+section p {
+	margin-top: -2rem;
+}
+footer p {
+	text-align: center;
+	
+}
+a {
+	text-decoration: none;
+	color: brown;
+}
+a:hover {
+	color: white;
+}
